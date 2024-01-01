@@ -5,7 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/library-events-consumer" />
     <file type="web" url="file://$PROJECT_DIR$/library-events-producer" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="azul-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">
